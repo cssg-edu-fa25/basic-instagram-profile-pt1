@@ -52,6 +52,7 @@ Your task is to create a **basic Instagram profile** using **HTML only** (no CSS
   - Links
     - Use an **absolute** link to an external website
     - Use a **relative** link to another html page that contains a link back to index.html
+    - Feel free to reference these links wherever you'd like on your site
   - One HTML comment
 
 ### Rules
@@ -61,7 +62,7 @@ Your task is to create a **basic Instagram profile** using **HTML only** (no CSS
 - Ensure you are using attributes in the right places (`src` for images, `href` for links)
 - Your `index.html` file must be located in the **root of the repo**
 
-p.s. Don't worry about making this look pretty, we will work on styling next week!
+p.s. Don't worry about making this look pretty, we will work on styling next week! The purpose of this assignment is just to get you started with HTML.
 
 ## 📤 Submitting Your Work
 
