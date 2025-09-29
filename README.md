@@ -16,7 +16,7 @@ This is a two-part project where you’ll build a simple Instagram profile. For 
    cd cssg-education-team-fa25
    
 3. Accept the assignment through the GitHub Classroom link (you've already done this):  
-   👉 [https://classroom.github.com/a/zWXPgzV1]
+   👉 [https://classroom.github.com/a/ZihBBQbD]
    
    This will create your own private repository.
    
